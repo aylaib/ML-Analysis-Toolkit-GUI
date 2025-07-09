@@ -251,12 +251,6 @@ python -m pytest tests/test_preprocessing.py
 - Update documentation for API changes
 - Use descriptive commit messages
 
-## 📚 Documentation
-
-- **[Complete Project Report](./Rapport_Projet_ML.pdf)** - Detailed analysis of each algorithm, results, and conclusions
-- **[User Guide](./docs/user_guide.md)** - Step-by-step usage instructions
-- **[API Documentation](./docs/api_docs.md)** - Technical documentation for developers
-
 ## 🔧 Requirements
 
 ### System Requirements
@@ -304,23 +298,6 @@ graphviz>=0.17
    - Use chunked processing for very large files
    - Monitor memory usage during processing
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Scikit-learn** for providing excellent machine learning algorithms
-- **Matplotlib** and **Seaborn** for powerful visualization capabilities
-- **Pandas** for efficient data manipulation
-- **The UCI Machine Learning Repository** for datasets
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Email: your-email@example.com
-- Check the [FAQ](./docs/faq.md) for common questions
 
 ## 🌟 Star History
 
