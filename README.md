@@ -1,13 +1,13 @@
 # Boîte à Outils d'Analyse de Machine Learning
 
-Ce projet est une application de bureau complète, développée en Python avec Tkinter/PyQt5, conçue pour l'exploration de données et la comparaison de divers algorithmes de Machine Learning. Réalisé dans le cadre du module "Fouille de Données" (M1 Bio-Informatique), il fournit une plateforme interactive pour analyser des jeux de données, en particulier des données médicales comme le dataset *Pima Indians Diabetes*.
+Ce projet est une application de bureau complète, développée en Python avec Tkinter/PyQt5, conçue pour l'exploration de données et la comparaison de divers algorithmes de Machine Learning, il fournit une plateforme interactive pour analyser des jeux de données, en particulier des données médicales comme le dataset *Pima Indians Diabetes*.
 
 ## 📸 Captures d'écran
 
-![Interface Principale](docs/images/gui_main.png)
+![Interface Principale](docs/images/2.png)
 _Menu principal de l'application permettant de charger un fichier et de choisir entre classification supervisée et non supervisée._
 
-![Fenêtre d'Analyse](docs/images/gui_results.png)
+![Fenêtre d'Analyse](docs/images/1.png)
 _Interface d'analyse où l'utilisateur peut sélectionner un algorithme et visualiser les résultats._
 
 ## ✨ Fonctionnalités
@@ -65,7 +65,6 @@ L'application implémente et compare les performances des algorithmes suivants :
     ```bash
     python main_app.py 
     ```
-    *(Remplacez `main_app.py` par le nom du fichier principal de votre GUI).*
 
 ## 📚 Documents de Référence
 - **[Rapport Complet du Projet](./Rapport_Projet_ML.pdf)** : Analyse détaillée de chaque algorithme, résultats, et conclusions.
