@@ -298,6 +298,10 @@ graphviz>=0.17
    - Use chunked processing for very large files
    - Monitor memory usage during processing
 
+## 📌 Citation
+If you use this project, please cite it as:
+
+Ayoub Laib (2025), *Machine Learning Analysis Toolkit*, GitHub repository: https://github.com/aylaib/ML-Analysis-Toolkit-GUI/edit/main/README.md
 
 ## 🌟 Star History
 
